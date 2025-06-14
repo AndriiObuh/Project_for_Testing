@@ -7,4 +7,4 @@ print(add(4, 5))
 def minus(x, y):
     return  x - y
 
-print(minus(4, 8))
+print(minus(8, 4))
