@@ -8,3 +8,7 @@ def minus(x, y):
     return  x - y
 
 print(minus(8, 4))
+
+
+def mult(a, b):
+    return a * b
