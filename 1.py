@@ -12,3 +12,7 @@ print(minus(8, 4))
 
 def mult(a, b):
     return a * b
+
+
+def div(x, y):
+    return x/y
