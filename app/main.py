@@ -7,5 +7,5 @@ def get_max(numbers):
     return max(numbers)
 
 def is_palindrome(s):
-    cleaned = ''.join(s.lower().split())
+    cleaned = ''.join(c.lower() for c in s if c.isalnum())
     return cleaned == cleaned[::-1]
