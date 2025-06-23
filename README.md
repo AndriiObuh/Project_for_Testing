@@ -39,8 +39,7 @@ Project_for_Testing/
 
 1. Install dependencies:
 pip install -r requirements.txt
-2. 
-Run tests:
+2. Run tests:
 pytest -v
 
 📌 Author
