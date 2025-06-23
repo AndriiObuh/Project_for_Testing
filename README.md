@@ -1,5 +1,7 @@
 # Project for Testing
 
+[![Python Tests](https://github.com/AndriiObuh/Project_for_Testing/actions/workflows/python-tests.yml/badge.svg)](https://github.com/AndriiObuh/Project_for_Testing/actions/workflows/python-tests.yml)
+
 This repository contains Python utility functions and their corresponding unit tests using **pytest**.
 
 ## 📁 Project Structure
